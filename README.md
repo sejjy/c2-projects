@@ -1,7 +1,7 @@
-## c-projects
+## c2-projects
 
-_Programming Projects_ from _C Programming: A Modern Approach_, second edition,
-by K. N. King
+Answers to programming projects from the second edition of C Programming: A
+Modern Approach
 
 ### Structure
 
