@@ -1,6 +1,3 @@
-// Modify the poker.c program of Section 10.5 by allowing “ace-low” straights
-// (ace, two, three, four, five).
-
 /* Classifies a poker hand */
 
 #include <stdbool.h> /* C99 only */

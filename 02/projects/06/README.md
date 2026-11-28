@@ -6,4 +6,4 @@ using the following formula:
 ```
 
 Note that the modified program performs fewer multiplications. This technique
-for evaluating polynomials is known as **_Horner’s Rule_**.
+for evaluating polynomials is known as ***Horner’s Rule***.

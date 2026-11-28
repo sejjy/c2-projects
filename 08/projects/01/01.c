@@ -1,9 +1,3 @@
-// Modify the repdigit.c program of Section 8.1 so that it shows which digits
-// (if any) were repeated:
-//
-// Enter a number: 939577
-// Repeated digit(s): 7 9
-
 /* Checks numbers for repeated digits */
 
 #include <stdbool.h> /* C99 only */

@@ -1,7 +1,3 @@
-// Rearrange the square3.c program so that the for loop initializes i, tests i,
-// and increments i. Don’t rewrite the program; in particular, don’t use any
-// multiplications.
-
 /* Prints a table of squares using an odd method */
 
 #include <stdio.h>
